@@ -19,6 +19,7 @@ Curriculum Vitae
 	Nationality:	Dutch
 
 	Gender:			Male
+	
 
 #### Education
 
@@ -83,7 +84,7 @@ Curriculum Vitae
 *Aug 2012 – Jul 2014* 	
 	
 	Pathé Tilburg , the Netherlands
-			Function: Service Employee
+	Function: Service Employee
 
 *Jun 2009 – Aug 2009*
 	
