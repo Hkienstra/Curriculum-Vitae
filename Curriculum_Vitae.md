@@ -6,7 +6,7 @@ Curriculum Vitae
 
 ----
 
-Name:			Hidde Kienstra
+Name:			Hidde Kienstra									![Alt text](/https://www.google.nl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjPuaz95aLLAhVFYA4KHX2JCQUQjRwIBw&url=http%3A%2F%2Fwww.linkedin.com%2Fpub%2Fhidde-kienstra%2Fa2%2Fb73%2F452%3Ftrk%3Dpub-pbmap&psig=AFQjCNF-wCcHWE2Ta5XyYzZ_hrAgvlIZxg&ust=1457035399938696)
 					
 Address:		Langestraat 27-03, Tilburg
  
@@ -87,7 +87,7 @@ Asset│Economics, Tilburg, the Netherlands
 *As chairman I was responsible for representing the committee both before and during the trip, chairing all meetings and keeping the main overview.*
 
 
-**Aug 2012 – June 2013*	*
+**Aug 2012 – June 2013**
 		
 *Faculty Wide Events Committee*
 	
