@@ -6,7 +6,7 @@ Curriculum Vitae
 
 ----
 
-Name:			Hidde Kienstra									![Alt text](/https://www.google.nl/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjPuaz95aLLAhVFYA4KHX2JCQUQjRwIBw&url=http%3A%2F%2Fwww.linkedin.com%2Fpub%2Fhidde-kienstra%2Fa2%2Fb73%2F452%3Ftrk%3Dpub-pbmap&psig=AFQjCNF-wCcHWE2Ta5XyYzZ_hrAgvlIZxg&ust=1457035399938696)
+Name:			Hidde Kienstra					
 					
 Address:		Langestraat 27-03, Tilburg
  
@@ -28,13 +28,13 @@ Gender:			Male
 
 **Sep 2015 – Current**	
 	
-*Master Economics*
+[*Master Economics*](https://www.tilburguniversity.edu/education/masters-programmes/economics/)
 	
 Tilburg University, the Netherlands
 			
 **Sep 2011 – Aug 2015**	
 	
-*Bachelor Economics and Business Economics*
+[*Bachelor Economics and Business Economics*](https://www.tilburguniversity.edu/nl/onderwijs/bacheloropleidingen/economie/)
 
 Tilburg University, the Netherlands
 
@@ -42,7 +42,7 @@ Minor: Accounting
 
 **Aug 2005 – Jun 2011**	
 	
-*VWO degree*
+[*VWO degree*](http://www.rietveldlyceum.nl/Home/Onderwijs/Atheneum/page.aspx/16)
 
 Rietveld Lyceum Doetinchem, the Netherlands
 
@@ -60,14 +60,14 @@ Section: Economy and Society, including Mathematics B
 			
 Function: External Affairs Officer
 
-Asset | Economics, Tilburg, the Netherlands
+[Asset | Economics](https://asset-economics.nl/about), Tilburg, the Netherlands
 
 *As External Affairs Officer I am responsible for all the contact with companies and interviewee. Furthermore, I am responsible for writing, checking and publishing articles.* 
 
 
 **May 2014 – Sep 2015** 
 
-*Fulltime board year at study association Asset|Economics*
+*Fulltime [board](https://asset-economics.nl/about/board/board-2014-2015) year at study association Asset|Economics*
 	
 Function: Secretary			
 	
