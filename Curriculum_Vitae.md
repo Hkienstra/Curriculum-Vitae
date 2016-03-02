@@ -12,14 +12,14 @@ Curriculum Vitae
  
 	Phone number:	06-41129308
 
-	E-mail:			<hiddekienstra@gmail.com> 
+	E-mail:			hiddekienstra@gmail.com
 
 	Date of birth:	14-06-1993
 
 	Nationality:	Dutch
 
 	Gender:			Male
-	
+		
 
 #### Education
 
