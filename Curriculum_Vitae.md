@@ -102,6 +102,8 @@ Asset Tilburg, Tilburg, the Netherlands
 	
 Betaald Voetbal Organisatie De Graafschap, Doetinchem, the Netherlands
 
+*As a youth player of BVO De Graafschap I played in teams of several age categories.*
+
 
 ### Professional experience
 
