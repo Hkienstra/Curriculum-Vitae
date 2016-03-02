@@ -2,8 +2,6 @@
 Curriculum Vitae
 =====
 
-
-
 #### Personal Information
 
 ---
@@ -23,6 +21,7 @@ Curriculum Vitae
 	Gender:			Male
 
 #### Education
+
 ---
 
 *Sep 2015 – Current*	
@@ -45,6 +44,7 @@ Curriculum Vitae
 
 
 ### Extracurricular experience
+
 ---
 
 *Sep 2015 – Current*	
@@ -83,6 +83,7 @@ Curriculum Vitae
 
 
 ### Professional experience
+
 ---
 *Aug 2012 – Jul 2014* 	
 	
@@ -103,11 +104,11 @@ and
 
 
 ###Remaining skills
+
 ---
 
 *Language*	
-	
-	<li><p>Dutch	Native</p>
-	<li><p>English	Professional working proficiency</p>
+<li><p>Dutch:	Native</p>
+<li><p>English:	Professional working proficiency</p>
 
 
