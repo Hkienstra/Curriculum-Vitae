@@ -26,23 +26,23 @@ Gender:			Male
 
 ----
 
-*Sep 2015 – Current*	
+**Sep 2015 – Current**	
 	
-**Master Economics**
+*Master Economics*
 	
 Tilburg University, the Netherlands
 			
-*Sep 2011 – Aug 2015*	
+**Sep 2011 – Aug 2015**	
 	
-**Bachelor Economics and Business Economics**
+*Bachelor Economics and Business Economics*
 
 Tilburg University, the Netherlands
 
 Minor: Accounting
 
-*Aug 2005 – Jun 2011*	
+**Aug 2005 – Jun 2011**	
 	
-**VWO degree**
+*VWO degree*
 
 Rietveld Lyceum Doetinchem, the Netherlands
 
@@ -54,9 +54,9 @@ Section: Economy and Society, including Mathematics B
 
 ---
 
-*Sep 2015 – Current*	
+**Sep 2015 – Current**	
 
-**Blog Committee**
+*Blog Committee*
 			
 Function: External Affairs Officer
 
@@ -65,9 +65,9 @@ Asset | Economics, Tilburg, the Netherlands
 *As External Affairs Officer I am responsible for all the contact with companies and interviewee. Furthermore, I am responsible for writing, checking and publishing articles.* 
 
 
-*May 2014 – Sep 2015* 
+**May 2014 – Sep 2015** 
 
-**Fulltime board year at study association Asset|Economics**
+*Fulltime board year at study association Asset|Economics*
 	
 Function: Secretary			
 	
@@ -76,9 +76,9 @@ Tilburg, the Netherlands
 *As the secretary of the board I was responsible for all the communication of the association, including the website, newsletters, e-mail, social media and all the alumni related contact as the Alumni Officer. Furthermore, I was responsible for the membership database of Asset Tilburg and Asset | Economics, organizing the Frankfurt Excursion (in cooperation with prof. dr. Eijffinger), and for coordinating several committees throughout the year. During the entire year one of my main responsibilities also was the development of Asset | Economics, together with the rest of the board 2014-2015.* 
 
 
-*Aug 2013 – June 2014*	
+**Aug 2013 – June 2014**	
 	
-**Study Tour Committee**
+*Study Tour Committee*
 	
 Function: Chairman 
 	
@@ -87,9 +87,9 @@ Asset│Economics, Tilburg, the Netherlands
 *As chairman I was responsible for representing the committee both before and during the trip, chairing all meetings and keeping the main overview.*
 
 
-*Aug 2012 – June 2013*	
+**Aug 2012 – June 2013*	*
 		
-**Faculty Wide Events Committee**
+*Faculty Wide Events Committee*
 	
 Function: General Member
 	
@@ -98,9 +98,9 @@ Asset Tilburg, Tilburg, the Netherlands
 *As operational manager I was responsible for contact with external parties and the running operations on the day that the events took place.* 
 
 
-*Jul 2005 – Jun 2008*	
+**Jul 2005 – Jun 2008**	
 	
-**Professional Youth Player** 
+*Professional Youth Player* 
 	
 Betaald Voetbal Organisatie De Graafschap, Doetinchem, the Netherlands
 
@@ -112,27 +112,27 @@ Betaald Voetbal Organisatie De Graafschap, Doetinchem, the Netherlands
 
 ---
 
-*Aug 2012 – Jul 2014* 	
+**Aug 2012 – Jul 2014** 	
 	
-**Pathé Tilburg , the Netherlands**
+*Pathé Tilburg , the Netherlands*
 	
 Function: Service Employee
 
 
-*Jun 2009 – Aug 2009*
+**Jun 2009 – Aug 2009**
 	
 and
 			
-*Jun 2010 – Aug 2010*
+**Jun 2010 – Aug 2010**
 
-**Slingeland Hospital, Doetinchem**
+*Slingeland Hospital, Doetinchem*
 
 Function: General Cleaner
 
 
-*May 2008 – Sept 2008*	
+**May 2008 – Sept 2008**	
 
-**Albert Heijn, Lichtenvoorde**
+*Albert Heijn, Lichtenvoorde*
 
 Function: General Employee
 
