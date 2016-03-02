@@ -82,7 +82,7 @@ Function: Chairman
 	
 Asset │ Economics, Tilburg, the Netherlands
 	
-*As chairman I was responsible for representing the committee both before and during the trip, chairing all meetings and keeping the main overview.* 
+*As chairman I was responsible for representing the committee both before and during the trip, chairing all meetings and keeping the main overview.*
 
 
 *Aug 2012 – June 2013*	
@@ -93,7 +93,7 @@ Function: General Member
 	
 Asset Tilburg, Tilburg, the Netherlands
 
-As operational manager I was responsible for contact with external parties and the running operations on the day that the events took place. 
+*As operational manager I was responsible for contact with external parties and the running operations on the day that the events took place.* 
 
 
 *Jul 2005 – Jun 2008*	
