@@ -108,7 +108,7 @@ Betaald Voetbal Organisatie De Graafschap, Doetinchem, the Netherlands
 
 ---
 
-### Professional experience
+### Professional Experience
 
 ---
 
@@ -138,9 +138,10 @@ Function: General Employee
 
 ---
 
-### Remaining skills
+### Remaining Skills
 
 ---
+
 
 *Language*	
 		
