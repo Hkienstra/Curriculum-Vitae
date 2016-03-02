@@ -22,8 +22,6 @@ Curriculum Vitae
 
 #### Education
 
----
-
 *Sep 2015 – Current*	
 	
 	Master Economics
@@ -43,9 +41,7 @@ Curriculum Vitae
 	Section: Economy and Society, including Mathematics B
 
 
-### Extracurricular experience
-
----
+#### Extracurricular experience
 
 *Sep 2015 – Current*	
 
@@ -82,16 +78,17 @@ Curriculum Vitae
 	Betaald Voetbal Organisatie De Graafschap, Doetinchem, the Netherlands
 
 
-### Professional experience
+#### Professional experience
 
----
 *Aug 2012 – Jul 2014* 	
 	
 	Pathé Tilburg , the Netherlands
 			Function: Service Employee
 
-*Jun 2009 – Aug 2009*	
-and			
+*Jun 2009 – Aug 2009*
+	
+and
+			
 *Jun 2010 – Aug 2010*
 
 	Slingeland Hospital, Doetinchem
@@ -103,12 +100,11 @@ and
 	Function: General Employee
 
 
-###Remaining skills
-
----
+#### Remaining skills
 
 *Language*	
-<li><p>Dutch:	Native</p>
-<li><p>English:	Professional working proficiency</p>
+		
+	Dutch:		Native	
+	English:	Professional working proficiency
 
 
