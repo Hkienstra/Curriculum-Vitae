@@ -20,6 +20,7 @@ Nationality:	Dutch
 
 Gender:			Male
 		
+----
 
 ### Education
 
@@ -47,6 +48,7 @@ Rietveld Lyceum Doetinchem, the Netherlands
 
 Section: Economy and Society, including Mathematics B
 
+---
 
 ### Extracurricular experience
 
@@ -80,7 +82,7 @@ Tilburg, the Netherlands
 	
 Function: Chairman 
 	
-Asset │ Economics, Tilburg, the Netherlands
+Asset│Economics, Tilburg, the Netherlands
 	
 *As chairman I was responsible for representing the committee both before and during the trip, chairing all meetings and keeping the main overview.*
 
@@ -104,8 +106,11 @@ Betaald Voetbal Organisatie De Graafschap, Doetinchem, the Netherlands
 
 *As a youth player of BVO De Graafschap I played in teams of several age categories.*
 
+---
 
 ### Professional experience
+
+---
 
 *Aug 2012 – Jul 2014* 	
 	
@@ -131,8 +136,11 @@ Function: General Cleaner
 
 Function: General Employee
 
+---
 
 ### Remaining skills
+
+---
 
 *Language*	
 		
