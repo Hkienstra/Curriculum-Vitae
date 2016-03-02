@@ -4,45 +4,49 @@ Curriculum Vitae
 
 #### Personal Information
 
----
+----
 
-	Name:			Hidde Kienstra
+Name:			Hidde Kienstra
 					
-	Address:		Langestraat 27-03, Tilburg
+Address:		Langestraat 27-03, Tilburg
  
-	Phone number:	06-41129308
+Phone number:	06-41129308
 
-	E-mail:			hiddekienstra@gmail.com
+E-mail:			<hiddekienstra@gmail.com>
 
-	Date of birth:	14-06-1993
+Date of birth:	14-06-1993
 
-	Nationality:	Dutch
+Nationality:	Dutch
 
-	Gender:			Male
+Gender:			Male
 		
 
 #### Education
 
+----
+
 *Sep 2015 – Current*	
 	
-	Master Economics
+**Master Economics**
 	
-	Tilburg University, the Netherlands
+Tilburg University, the Netherlands
 			
 *Sep 2011 – Aug 2015*	
 	
-	Bachelor Economics and Business Economics
-	Tilburg University, the Netherlands
-	Minor: Accounting
+**Bachelor Economics and Business Economics**
+Tilburg University, the Netherlands
+Minor: Accounting
 
 *Aug 2005 – Jun 2011*	
 	
-	VWO degree
-	Rietveld Lyceum Doetinchem, the Netherlands
-	Section: Economy and Society, including Mathematics B
+**VWO degree**
+Rietveld Lyceum Doetinchem, the Netherlands
+Section: Economy and Society, including Mathematics B
 
 
 #### Extracurricular experience
+
+---
 
 *Sep 2015 – Current*	
 
@@ -107,5 +111,7 @@ and
 		
 	Dutch:		Native	
 	English:	Professional working proficiency
+	
+	
 
 
