@@ -22,6 +22,8 @@ Gender:			Male
 		
 ----
 
+Links to the [second assignment](http://hkienstra.github.io/assignment-2/index.html) and [presentation](http://hkienstra.github.io/presentation/presentation.html).
+
 ### Education
 
 ----
